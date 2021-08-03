@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Siddharth Vaishnav",
+    "description":"I am a web development engineer and I use react to develop pages. ",
+    "image":"profilepic.png",
+    "bio":"In order to understand recursion, one must first understand recursion",
+    "contactmessage":"Hire Me",
+    "email": "siddharth17vaishnav@gmail.com",
+    "phone": "(91)-9409239563",
+    "github":"https://github.com/siddharth17vaishnav",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"B/24 Asha Nagar Udhna",
+      "city":"Surat",
+      "state":"Gujarat",
+      "zip": "394210"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"/cv.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/siddharth.vaishnav.007/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/siddharthvais15",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/siddharth-vaishnav-6b44ba185/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/code.siddharth",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/siddharth17vaishnav",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University- Gujarat technological University",
+        "degree":"Bachelors in Computer Application",
+        "graduated":"2021",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #2 - New Model Higher Secondery School ",
+        "degree":"",
+        "graduated":"2018",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 - Oxford English High School",
+        "degree":"",
+        "graduated":"2016",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"60%"
+      },
+      {
+        "name":"Laravel",
+        "level":"50%"
+      },
+      {
+        "name":"ANDROID(JAVA)",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Portfolio Website",
+        "category":"",
+        "image":"1.png",
+        "url":""
+      },
+      {
+        "title":"Inshort Clone",
+        "category":"",
+        "image":"2.png",
+        "url":"https://github.com/siddharth17vaishnav/InshorCloneReactJs"
+      },
+      {
+        "title":"Movie Database",
+        "category":"",
+        "image":"/3.png",
+        "url":"https://github.com/siddharth17vaishnav/MovieDatabaseReactJs"
+      },
+      {
+        "title":"TodoList",
+        "category":"",
+        "image":"/4.PNG",
+        "url":"https://github.com/siddharth17vaishnav/todolist_react"
+      }
+      
+     
+     
+    ]
+  }
+}
