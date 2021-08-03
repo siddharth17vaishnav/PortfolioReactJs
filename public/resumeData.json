@@ -2,7 +2,7 @@
   "main": {
     "name":"Siddharth Vaishnav",
     "description":"I am a web development engineer and I use react to develop pages. ",
-    "image":"profilepic.png",
+    "image":"/profilepic.PNG",
     "bio":"In order to understand recursion, one must first understand recursion",
     "contactmessage":"Hire Me",
     "email": "siddharth17vaishnav@gmail.com",
@@ -101,19 +101,19 @@
       {
         "title":"Portfolio Website",
         "category":"",
-        "image":"1.png",
+        "image":"/1.PNG",
         "url":""
       },
       {
         "title":"Inshort Clone",
         "category":"",
-        "image":"2.png",
+        "image":"/2.PNG",
         "url":"https://github.com/siddharth17vaishnav/InshorCloneReactJs"
       },
       {
         "title":"Movie Database",
         "category":"",
-        "image":"/3.png",
+        "image":"/3.PNG",
         "url":"https://github.com/siddharth17vaishnav/MovieDatabaseReactJs"
       },
       {
